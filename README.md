@@ -9,7 +9,7 @@ This is a content-based movie recommender system built using Python, Pandas, Sci
 - Clean, interactive interface with Streamlit
 - Based on TMDB 5000 movie dataset
 
-## 🚀 How to Run
+## 🚀 How to Run 
 
 1. Clone the repo:
    ```bash
